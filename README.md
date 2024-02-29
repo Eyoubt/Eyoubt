@@ -1,4 +1,4 @@
-Hi there 👋, Welcome! My name is Eyoub Gebregiorgis. I'm a computer science 🖥️ junior at Laney college in Oakland, CA.
+Hi there 👋, welcome! My name is Eyoub Gebregiorgis. I'm a computer science 🖥️ junior at Laney college in Oakland, CA.
 I have a huge interest in web development 👨‍💻! Currently learning react.js and node.js.
 
 Currently working as a math tutor | Incoming web development intern at Thaddeus Resource Center.
