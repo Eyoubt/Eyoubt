@@ -14,7 +14,6 @@ Tools:
 ![image](https://github.com/Eyoubt/Eyoubt/assets/94130126/b8695820-3b00-41f1-b89f-cf97c579f23c)
 
 
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on web development projects
 - 🤔 I’m looking for help with back-end development
