@@ -1,7 +1,5 @@
 Hi there 👋, Welcome!
 
-![photo_2022-07-18_12-23-30](https://github.com/Eyoubt/Eyoubt/assets/94130126/dbded7af-71df-4609-82c0-0ad1b50752ca)
-
 Hello!👋 my name is Eyoub Gebregiorgis. I'm a computer science 🖥️ junior at Laney college in Oakland, CA.
 I have a huge interest in web development 👨‍💻! Currently learning react.js and node.js.
 
