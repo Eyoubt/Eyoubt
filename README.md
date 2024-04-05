@@ -18,5 +18,4 @@ Tools:
 - 👯 I’m looking to collaborate on web development projects
 - 🤔 I’m looking for help with back-end development
 - 📫 How to reach me: https://www.linkedin.com/in/eyoub-gebregiorgis/
-- ⚡ Fun fact: I have 9 siblings and i'm the youngest and the first in my family to go to college.
 
