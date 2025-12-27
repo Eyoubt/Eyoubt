@@ -1,12 +1,11 @@
-Hi there 👋, welcome! My name is Eyoub Gebregiorgis. I'm a computer science 🖥️ junior at Laney college in Oakland, CA.
-I have a huge interest in web development 👨‍💻! Currently learning react.js and node.js.
+Hi there, welcome! My name is Eyoub Gebregiorgis. I'm a junior at San Francisco State University studying Electrical Engineering.
 
-Currently working as a math tutor | Incoming web development intern at Thaddeus Resource Center.
+Currently working part time as an AI Trainer for Handshake and previous Web Development Intern at Thaddeus Resource Center.
 
 Excited to join like-minded individuals and contribute to open source projects.
 
 Skills:
-Web Development | Tutoring
+Web Development | Electronics
 
 Tools:
 
@@ -14,8 +13,6 @@ Tools:
 ![image](https://github.com/Eyoubt/Eyoubt/assets/94130126/b8695820-3b00-41f1-b89f-cf97c579f23c)
 
 
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on web development projects
-- 🤔 I’m looking for help with back-end development
+- 👯 I’m looking to collaborate on web development and other software/hardware related projects
 - 📫 How to reach me: https://www.linkedin.com/in/eyoub-gebregiorgis/
 
