@@ -1,6 +1,6 @@
 Hi there, welcome! My name is Eyoub Gebregiorgis. I'm a junior at San Francisco State University studying Electrical Engineering.
 
-Currently working part time as an AI Trainer for Handshake and previous Web Development Intern at Thaddeus Resource Center.
+Currently working part time as an AI Trainer for Handshake | previous Web Development Intern at Thaddeus Resource Center.
 
 Excited to join like-minded individuals and contribute to open source projects.
 
