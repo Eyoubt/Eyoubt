@@ -14,5 +14,6 @@ Tools:
 
 
 - 👯 I’m looking to collaborate on web development and other software/hardware related projects
+- 🧑‍💻 Currently learning python
 - 📫 How to reach me: https://www.linkedin.com/in/eyoub-gebregiorgis/
 
